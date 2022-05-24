@@ -2,8 +2,6 @@
 
 - 👨‍💻 You can see it here: [https://cellamarematias.github.io/demo-html-css/](https://cellamarematias.github.io/demo-html-css/)
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
-
 - 📫 How to reach me **cellamarematias@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
