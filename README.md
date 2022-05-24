@@ -1,4 +1,4 @@
-<h3 align="center">Simple HTML and CSS demo</h3>
+<h3 align="center">Simple HTML and CSS demo for a Cafe Blog</h3>
 
 - 👨‍💻 You can see it here: [https://cellamarematias.github.io/demo-html-css/](https://cellamarematias.github.io/demo-html-css/)
 
