@@ -1,6 +1,6 @@
 <h3 align="center">Simple HTML and CSS demo</h3>
 
-- 👨‍💻 All of my projects are available at [portfoliocellamarematias.herokuapp.com/](portfoliocellamarematias.herokuapp.com/)
+- 👨‍💻 You can see it here: [https://cellamarematias.github.io/demo-html-css/](https://cellamarematias.github.io/demo-html-css/)
 
 - 📫 How to reach me **cellamarematias@gmail.com**
 
