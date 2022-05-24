@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Simple HTML and CSS demo</h3>
 
 - 👨‍💻 All of my projects are available at [portfoliocellamarematias.herokuapp.com/](portfoliocellamarematias.herokuapp.com/)
 
