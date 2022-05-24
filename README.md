@@ -1,6 +1,6 @@
 <h3 align="center">Simple HTML and CSS demo</h3>
 
-- 👨‍💻 You can see it here: [https://cellamarematias.github.io/demo-html-css/](https://cellamarematias.github.io/demo-html-css/)
+- 👨‍💻 You can see it here: [https://cellamarematias.github.io/demo-html-css/](https://cellamarematias.github.io/demo-html-css/){:target="_blank"}
 
 - 📫 How to reach me **cellamarematias@gmail.com**
 
